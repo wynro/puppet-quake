@@ -1,0 +1,16 @@
+{
+  "name": "wynro/quake",
+  "version": "0.1.0",
+  "author": "wynro",
+  "summary": "Install Quake",
+  "license": "GPLv3",
+  "source": "https://github.com/wynro/puppet-quake",
+  "project_page": "https://github.com/wynro/puppet-quake",
+  "issues_url": "https://github.com/wynro/puppet-quake/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"},
+    {"name":"maestrodev-wget","version_requirement":">= 1.7.3"}
+  ],
+  "data_provider": null
+}
+
